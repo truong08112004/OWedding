@@ -128,7 +128,7 @@
                             thứ theo kế hoạch, cho đám cưới của bạn được vẹn toàn</p>
                     </div>
                     <div class="itemcontent_img">
-                        <img src="{{ asset('image\cal.jpg') }}" alt="">
+                        <img src="{{ asset('image/cal.jpg') }}" alt="">
                     </div>
                 </div>
             </div>
@@ -143,7 +143,7 @@
                             thông minh. Tận hưởng ngày cưới mà không cần lo lắng về tài chính</p>
                     </div>
                     <div class="itemcontent_img">
-                        <img src="{{ asset('image\money.jpg') }}" alt="">
+                        <img src="{{ asset('image/money.jpg') }}" alt="">
                     </div>
                 </div>
             </div>
@@ -158,7 +158,7 @@
                             định được số lượng người tham dự, và lưu trữ thông tin mừng cưới</p>
                     </div>
                     <div class="itemcontent_img">
-                        <img src="{{ asset('image\party.jpg') }}" alt="">
+                        <img src="{{ asset('image/party.jpg') }}" alt="">
                     </div>
                 </div>
             </div>
@@ -173,7 +173,7 @@
                             thiệp chuyên nghiệp, và mời cưới bạn bè một cách ấn tượng</p>
                     </div>
                     <div class="itemcontent_img">
-                        <img src="{{ asset('image\Letter.jpg') }}" alt="">
+                        <img src="{{ asset('image/Letter.jpg') }}" alt="">
                     </div>
                 </div>
             </div>
@@ -195,7 +195,7 @@
         </div>
         <div class="thirdpage_content">
             <div class="item_item">
-                <img src="{{ asset('image\ser1.jpg') }}" alt="" class="item_image">
+                <img src="{{ asset('image/ser1.jpg') }}" alt="" class="item_image">
                 <div class="item_content">
                     <div class="item_title">CÓ NGAY WEBSITE MIỄN PHÍ CHỈ SAU 3 NỐT NHẠC</div>
                     <p class="item_sub">Bất cứ ai cũng có thể dễ dàng tạo ra một website đám cưới đẹp một cách nhanh
@@ -203,7 +203,7 @@
                 </div>
             </div>
             <div class="item_item">
-                <img src="{{ asset('image\ser2.jpg') }}" alt="" class="item_image">
+                <img src="{{ asset('image/ser2.jpg') }}" alt="" class="item_image">
                 <div class="item_content">
                     <div class="item_title">KHÔNG GIAN KỶ NIỆM ĐỘC ĐÁO LƯU GIỮ MÃI MÃI</div>
                     <p class="item_sub">Giúp bạn lưu giữ những khoảnh khắc tuyệt vời cho ngày trọng đại, sẽ thật tuyệt
@@ -211,7 +211,7 @@
                 </div>
             </div>
             <div class="item_item">
-                <img src="{{ asset('image\ser3.jpg') }}" alt="" class="item_image">
+                <img src="{{ asset('image/ser3.jpg') }}" alt="" class="item_image">
                 <div class="item_content">
                     <div class="item_title">CHO MỌI KẾ HOẠCH CƯỚI TRỞ NÊN DỄ DÀNG HƠN</div>
                     <p class="item_sub">Cung cấp những công cụ hữu ích, giúp bạn quản lý mọi kế hoạch cho ngày trọng
@@ -219,7 +219,7 @@
                 </div>
             </div>
             <div class="item_item">
-                <img src="{{ asset('image\ser4.jpg') }}" alt="" class="item_image">
+                <img src="{{ asset('image/ser4.jpg') }}" alt="" class="item_image">
                 <div class="item_content">
                     <div class="item_title">GIAO DIỆN ĐẸP - ĐA DẠNG VÀ CẬP NHẬT LIÊN TỤC</div>
                     <p class="item_sub">Bất cứ ai cũng có thể dễ dàng tạo ra một website đám cưới đẹp một cách nhanh
@@ -227,7 +227,7 @@
                 </div>
             </div>
             <div class="item_item">
-                <img src="{{ asset('image\ser5.jpg') }}" alt="" class="item_image">
+                <img src="{{ asset('image/ser5.jpg') }}" alt="" class="item_image">
                 <div class="item_content">
                     <div class="item_title">DỄ DÀNG CHIA SẺ CÂU CHUYỆN TÌNH YÊU CỦA BẠN</div>
                     <p class="item_sub">Không phải lúc nào bạn cũng có thể kể về chuyện tình của mình cho ai đó. Hãy
@@ -235,7 +235,7 @@
                 </div>
             </div>
             <div class="item_item">
-                <img src="{{ asset('image\ser6.jpg') }}" alt="" class="item_image">
+                <img src="{{ asset('image/ser6.jpg') }}" alt="" class="item_image">
                 <div class="item_content">
                     <div class="item_title">NHẬN LỜI CHÚC PHÚC TỪ BẠN BÈ DỄ DÀNG HƠN</div>
                     <p class="item_sub">Để lời chúc của bạn bè làm đám cưới của bạn thêm một phần hạnh phúc. Hơn hết,
@@ -285,18 +285,12 @@
                 <div class="secondtitle_mid">HÀNG NGÀN CẶP ĐÔI GIỐNG NHƯ BẠN</div>
             </div>
             <div class="finalpage_content-img">
-                <img src="https://th.bing.com/th/id/R.086c5d5b5a88a356e6e8d226e25076dc?rik=qLcwkONyJ7OQDA&riu=http%3a%2f%2felariophotography.com%2fwp-content%2fuploads%2f2016%2f09%2fsagamore_wedding_photos-29.jpg&ehk=txVFWu8JOU%2fsLHbkNaJMIpKsYtICS%2ba%2bClH%2bdpKElrE%3d&risl=&pid=ImgRaw&r=0"
-                    alt="" class="finalpage_content-img-item">
-                <img src="https://cajphotography335.zenfolio.com/img/s/v-10/p2450054690-4.jpg" alt=""
-                    class="finalpage_content-img-item">
-                <img src="https://cajphotography335.zenfolio.com/img/s/v-10/p2450047733-4.jpg" alt=""
-                    class="finalpage_content-img-item">
-                <img src="https://th.bing.com/th/id/OIP.zVJGmUeZpS__l9ahNOGkrAHaE8?pid=ImgDet&w=1500&h=1001&rs=1"
-                    alt="" class="finalpage_content-img-item">
-                <img src="https://www.lindabeansperfectmaine.com/wp-content/uploads/2014/12/GP302-580x385.jpg"
-                    alt="" class="finalpage_content-img-item">
-                <img src="https://i.pinimg.com/originals/be/dd/06/bedd0625abb8a06454e286a6598e2f38.jpg" alt=""
-                    class="finalpage_content-img-item">
+                <img src="{{ asset('image/wedd1.jpg') }}" alt="" class="finalpage_content-img-item">
+                <img src="{{ asset('image/wedd2.jpg') }}" alt="" class="finalpage_content-img-item">
+                <img src="{{ asset('image/wedd3.jpg') }}" alt="" class="finalpage_content-img-item">
+                <img src="{{ asset('image/wedd4.jpg') }}" alt="" class="finalpage_content-img-item">
+                <img src="{{ asset('image/wedd5.jpg') }}" alt="" class="finalpage_content-img-item">
+                <img src="{{ asset('image/wedd6.jpg') }}" alt="" class="finalpage_content-img-item">
 
             </div>
         </div>

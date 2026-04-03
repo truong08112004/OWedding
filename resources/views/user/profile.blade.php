@@ -17,8 +17,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"
         rel="stylesheet" />
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-    <link rel="stylesheet" href="{{ asset('profile/reset.css') }}" />
-    <link rel="stylesheet" href="{{ asset('profile/style.css') }}" />
+    <link rel="stylesheet" href="{{ asset('Profile/reset.css') }}" />
+    <link rel="stylesheet" href="{{ asset('Profile/style.css') }}" />
 </head>
 
 <body>
@@ -110,7 +110,7 @@
             <div class="profile-content_changepass"></div>
         </div>
     </div>
-    <script src="{{ asset('profile/js.js') }}"></script>
+    <script src="{{ asset('Profile/js.js') }}"></script>
 </body>
 
 </html>

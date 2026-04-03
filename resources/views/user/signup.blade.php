@@ -13,8 +13,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,700;1,400&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="{{ asset('signup/reset.css') }}">
-    <link rel="stylesheet" href="{{ asset('signup/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('Signup/reset.css') }}">
+    <link rel="stylesheet" href="{{ asset('Signup/style.css') }}">
 </head>
 
 <body>
